@@ -1,8 +1,9 @@
 ### Hello there! 👋
 
-- 🔭 I’m currently working on improving myself as a human being and a developer
-- 🌱 I’m currently learning NodeJS
-- 👯 I’m looking to collaborate on Web development projects/Open Source
+- I'm a CSE undergrad and an aspiring web developer.
+- 🔭 I’m currently working on improving myself as a human being and a developer.
+- 🌱 I’m currently learning NodeJS.
+- 👯 I’m looking to collaborate on Web development projects/Open Source.
 - 📫 Link to my [LinkedIn](https://www.linkedin.com/in/harsh-palkar-566966222/)
 - ⚡ Link to my [Twitter](https://twitter.com/harshhwho)
 <!--
