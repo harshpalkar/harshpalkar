@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on improving myself as a human being and a developer
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on Web development projects/Open Source
-- Link to my [LinkedIn](https://www.linkedin.com/in/harsh-palkar-566966222/)
+- ![image](https://user-images.githubusercontent.com/83535756/203045204-668a0a27-fe41-4eb4-ad58-8053adb56874.png) Link to my [LinkedIn](https://www.linkedin.com/in/harsh-palkar-566966222/)
 - Link to my [Twitter](https://twitter.com/harshhwho)
 <!--
 **harshpalkar/harshpalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
