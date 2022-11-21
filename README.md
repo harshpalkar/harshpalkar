@@ -1,4 +1,4 @@
-### Hello Folks 👋
+### Hello there! 👋
 
 - 🔭 I’m currently working on improving myself as a human being and a developer
 - 🌱 I’m currently learning NodeJS
