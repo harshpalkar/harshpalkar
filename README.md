@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning NodeJS.
 - 👯 I’m looking to collaborate on Web development projects/Open Source.
 - <img src = "https://user-images.githubusercontent.com/83535756/203073299-8eb888d6-a7a8-4206-99d0-8066e84db0ad.png" width="1.5%" height="1.5%"/>  Checkout my [LinkedIn](https://www.linkedin.com/in/harsh-palkar-566966222/)
-- <img src="https://user-images.githubusercontent.com/68462593/203071392-35236d38-a44e-41f0-934b-c2cdb5ff2c8e.png" width="1.5%" height="1.5%" target="_blank"/> Checkout my  [Twitter](https://twitter.com/harshhwho)
+- <img src="https://user-images.githubusercontent.com/68462593/203071392-35236d38-a44e-41f0-934b-c2cdb5ff2c8e.png" width="1.5%" height="1.5%"/> Checkout my  [Twitter](https://twitter.com/harshhwho)
 
 
 <!-- 
