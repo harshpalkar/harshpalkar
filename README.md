@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on improving myself as a human being and a developer
+- 🌱 I’m currently learning NodeJS
+- 👯 I’m looking to collaborate on Web development projects/Open Source
+- Link to my [linkedIn](https://www.linkedin.com/in/harsh-palkar-566966222/)
 <!--
 **harshpalkar/harshpalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
