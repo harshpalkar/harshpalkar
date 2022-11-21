@@ -5,12 +5,14 @@
 - 🔭 I’m currently working on improving myself as a human being and a developer.
 - 🌱 I’m currently learning NodeJS.
 - 👯 I’m looking to collaborate on Web development projects/Open Source.
-- 📫 Checkout my [LinkedIn](https://www.linkedin.com/in/harsh-palkar-566966222/)
-- ⚡ Checkout my [Twitter](https://twitter.com/harshhwho)
-<!--
-**harshpalkar/harshpalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <img src = "https://user-images.githubusercontent.com/83535756/203073299-8eb888d6-a7a8-4206-99d0-8066e84db0ad.png" width="1.5%" height="1.5%"/>  Checkout my [LinkedIn](https://www.linkedin.com/in/harsh-palkar-566966222/)
+- <img src="https://user-images.githubusercontent.com/68462593/203071392-35236d38-a44e-41f0-934b-c2cdb5ff2c8e.png" width="1.5%" height="1.5%"/> Checkout my  [Twitter](https://twitter.com/harshhwho)
 
-Here are some ideas to get you started:
+
+<!-- 
+**harshpalkar/harshpalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
