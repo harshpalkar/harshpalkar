@@ -1,7 +1,7 @@
 ### Hello there! 👋
   <img src="https://user-images.githubusercontent.com/83535756/203066276-6c07e80c-3706-4ff6-8f20-9ac288d6fe32.jpg" width="26%" height="26%" mg align="right">
 
-- 👨🏻‍💻 I'm a CSE undergrad and an aspiring web developer.
+- 👨🏻‍💻 I'm a CSE undergrad and an aspiring front web developer trying to become a full stack.
 - 🔭 I’m currently working on improving myself as a human being and a developer.
 - 🌱 I’m currently learning NodeJS.
 - 👯 I’m looking to collaborate on Web development projects/Open Source.
