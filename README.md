@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Palkar</h1>
-<h3 align="center" font-family = "Inter">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpalkar&label=Profile%20views&color=0e75b6&style=flat" alt="harshpalkar" /> </p>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshpalkar" alt="harshpalkar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/harshhwho" target="blank"><img src="https://img.shields.io/twitter/follow/harshhwho?logo=twitter&style=for-the-badge" alt="harshhwho" /></a> </p>
 
 - I’m currently working on improving myself as a human being and a developer. [Library-management web app](harshlib.netlify.app)
 
@@ -23,6 +19,8 @@
 <p align="left">
 <a href="https://twitter.com/harshhwho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshhwho" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harsh-palkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-palkar" height="30" width="40" /></a>
+<a href="https://instagram.com/explorewitharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="explorewitharsh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harshpalkar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshpalkar1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshpalkar&show_icons=true&locale=en&layout=compact" alt="harshpalkar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshpalkar&show_icons=true&locale=en" alt="harshpalkar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshpalkar&" alt="harshpalkar" /></p>
