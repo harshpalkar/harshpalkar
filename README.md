@@ -11,9 +11,9 @@
 
 - I’m looking for help with **NodeJS**
 
-- 💬 Ask me about **JavaScript, Angular, React, Node**
+- Ask me about **JavaScript, Angular, React, Node**
 
-- 📫 How to reach me **harshppalkar@gmail.com**
+- How to reach me **harshppalkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
