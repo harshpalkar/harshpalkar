@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Palkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshpalkar" alt="harshpalkar" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshpalkar" alt="harshpalkar" /></a> </p> -->
 
 - I’m currently working on improving myself as a human being and a developer. [Library-management web app](harshlib.netlify.app)
 
